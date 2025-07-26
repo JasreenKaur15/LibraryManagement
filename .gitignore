@@ -1,0 +1,4 @@
+*.class
+*.ser
+.DS_Store
+Thumbs.db
